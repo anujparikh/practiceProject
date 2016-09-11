@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d47c0015-7a6c-454f-add5-f4afe00d831e" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/com/self/projecteuler/Problem6Test.java" afterPath="$PROJECT_DIR$/test/com/self/projecteuler/Problem6Test.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/src/com/self/projecteuler/Problem7.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/com/self/projecteuler/Problem7Test.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="practiceProject.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -23,26 +25,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Problem6.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/src/com/self/projecteuler/Problem6.java">
+      <file leaf-file-name="Problem7.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/src/com/self/projecteuler/Problem7.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+            <state relative-caret-position="165">
+              <caret line="11" column="33" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="33" />
               <folding>
-                <element signature="e#148#149#0" expanded="true" />
-                <element signature="e#228#229#0" expanded="true" />
-                <element signature="e#430#431#0" expanded="true" />
-                <element signature="e#501#502#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Problem6Test.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/test/com/self/projecteuler/Problem6Test.java">
+      <file leaf-file-name="Problem7Test.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/test/com/self/projecteuler/Problem7Test.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="25" column="24" selection-start-line="25" selection-start-column="24" selection-end-line="25" selection-end-column="24" />
+            <state relative-caret-position="180">
+              <caret line="12" column="26" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -95,6 +94,8 @@
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/src/src/com/self/projecteuler/Problem6.java" />
         <option value="$PROJECT_DIR$/test/com/self/projecteuler/Problem6Test.java" />
+        <option value="$PROJECT_DIR$/src/src/com/self/projecteuler/Problem7.java" />
+        <option value="$PROJECT_DIR$/test/com/self/projecteuler/Problem7Test.java" />
       </list>
     </option>
   </component>
@@ -335,7 +336,7 @@
       <recent name="$PROJECT_DIR$/src" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.Problem6Test.differenceTest">
+  <component name="RunManager" selected="JUnit.Problem7Test.findNthPrimeTest">
     <configuration default="false" name="SetTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -360,26 +361,6 @@
       </option>
       <envs />
       <patterns />
-      <method />
-    </configuration>
-    <configuration default="false" name="General" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="src.com.self.projecteuler.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="src.com.self.projecteuler.General" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="practiceProject" />
-      <envs />
       <method />
     </configuration>
     <configuration default="false" name="Problem6Test.sumOfSquareTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
@@ -447,6 +428,32 @@
       <option name="PACKAGE_NAME" value="com.self.projecteuler" />
       <option name="MAIN_CLASS_NAME" value="com.self.projecteuler.Problem6Test" />
       <option name="METHOD_NAME" value="differenceTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="false" name="Problem7Test.findNthPrimeTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.self.projecteuler.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="practiceProject" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.self.projecteuler" />
+      <option name="MAIN_CLASS_NAME" value="com.self.projecteuler.Problem7Test" />
+      <option name="METHOD_NAME" value="findNthPrimeTest" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -719,18 +726,18 @@
     </configuration>
     <list size="5">
       <item index="0" class="java.lang.String" itemvalue="JUnit.SetTest" />
-      <item index="1" class="java.lang.String" itemvalue="Application.General" />
-      <item index="2" class="java.lang.String" itemvalue="JUnit.Problem6Test.sumOfSquareTest" />
-      <item index="3" class="java.lang.String" itemvalue="JUnit.Problem6Test.squareOfSumTest" />
-      <item index="4" class="java.lang.String" itemvalue="JUnit.Problem6Test.differenceTest" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.Problem6Test.sumOfSquareTest" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.Problem6Test.squareOfSumTest" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.Problem6Test.differenceTest" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.Problem7Test.findNthPrimeTest" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.Problem6Test.differenceTest" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.Problem6Test.squareOfSumTest" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.Problem6Test.sumOfSquareTest" />
-        <item index="3" class="java.lang.String" itemvalue="JUnit.SetTest" />
-        <item index="4" class="java.lang.String" itemvalue="Application.General" />
+        <item index="0" class="java.lang.String" itemvalue="JUnit.Problem7Test.findNthPrimeTest" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.Problem6Test.differenceTest" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.Problem6Test.squareOfSumTest" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.Problem6Test.sumOfSquareTest" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.SetTest" />
       </list>
     </recent_temporary>
   </component>
@@ -757,29 +764,29 @@
     <history-entry file="Problem6Test_differenceTest - 2016.09.11 at 15h 52m 03s.xml">
       <configuration name="Problem6Test.differenceTest" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="Problem6Test_differenceTest - 2016.09.11 at 15h 52m 14s.xml">
+      <configuration name="Problem6Test.differenceTest" configurationId="JUnit" />
+    </history-entry>
     <history-entry file="Problem6Test_squareOfSumTest - 2016.09.11 at 15h 43m 59s.xml">
       <configuration name="Problem6Test.squareOfSumTest" configurationId="JUnit" />
     </history-entry>
     <history-entry file="Problem6Test_squareOfSumTest - 2016.09.11 at 15h 44m 33s.xml">
       <configuration name="Problem6Test.squareOfSumTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="Problem6Test_sumOfSquareTest - 2016.09.11 at 15h 41m 31s.xml">
-      <configuration name="Problem6Test.sumOfSquareTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Problem6Test_sumOfSquareTest - 2016.09.11 at 15h 42m 01s.xml">
-      <configuration name="Problem6Test.sumOfSquareTest" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="Problem6Test_sumOfSquareTest - 2016.09.11 at 15h 44m 15s.xml">
       <configuration name="Problem6Test.sumOfSquareTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SinglyLinkedListTest_singlyLinkedListAddFirstTest - 2016.09.07 at 16h 45m 56s.xml">
-      <configuration name="SinglyLinkedListTest.singlyLinkedListAddFirstTest" configurationId="JUnit" />
+    <history-entry file="Problem7Test_findNthPrimeTest - 2016.09.11 at 16h 16m 50s.xml">
+      <configuration name="Problem7Test.findNthPrimeTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SinglyLinkedListTest_singlyLinkedListAddFirstTest - 2016.09.07 at 17h 08m 15s.xml">
-      <configuration name="SinglyLinkedListTest.singlyLinkedListAddFirstTest" configurationId="JUnit" />
+    <history-entry file="Problem7Test_findNthPrimeTest - 2016.09.11 at 16h 17m 27s.xml">
+      <configuration name="Problem7Test.findNthPrimeTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="SinglyLinkedListTest_singlyLinkedListAddFirstTest - 2016.09.08 at 00h 52m 07s.xml">
-      <configuration name="SinglyLinkedListTest.singlyLinkedListAddFirstTest" configurationId="JUnit" />
+    <history-entry file="Problem7Test_findNthPrimeTest - 2016.09.11 at 16h 18m 08s.xml">
+      <configuration name="Problem7Test.findNthPrimeTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Problem7Test_findNthPrimeTest - 2016.09.11 at 16h 19m 42s.xml">
+      <configuration name="Problem7Test.findNthPrimeTest" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
@@ -1197,6 +1204,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/test/com/self/projecteuler/Problem6Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="33" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/src/com/self/projecteuler/Problem6.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
@@ -1210,10 +1227,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test/com/self/projecteuler/Problem6Test.java">
+    <entry file="file://$PROJECT_DIR$/src/src/com/self/projecteuler/Problem7.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="25" column="24" selection-start-line="25" selection-start-column="24" selection-end-line="25" selection-end-column="24" />
+        <state relative-caret-position="165">
+          <caret line="11" column="33" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/com/self/projecteuler/Problem7Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="26" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
