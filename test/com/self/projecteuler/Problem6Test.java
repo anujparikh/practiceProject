@@ -24,6 +24,6 @@ public class Problem6Test {
     public void differenceTest() {
         Problem6 testObject = new Problem6();
         Integer methodOutput = testObject.difference(100);
-        Assert.assertEquals((Integer) 3025, methodOutput);
+        Assert.assertEquals((Integer) 25164150, methodOutput);
     }
 }

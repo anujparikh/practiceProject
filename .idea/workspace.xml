@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d47c0015-7a6c-454f-add5-f4afe00d831e" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/src/com/self/projecteuler/Problem6.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/com/self/projecteuler/Problem6Test.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/com/self/projecteuler/Problem6Test.java" afterPath="$PROJECT_DIR$/test/com/self/projecteuler/Problem6Test.java" />
     </list>
     <ignored path="practiceProject.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -25,11 +23,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Problem6.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Problem6.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/src/com/self/projecteuler/Problem6.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" column="64" selection-start-line="16" selection-start-column="64" selection-end-line="16" selection-end-column="64" />
+            <state relative-caret-position="135">
+              <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
               <folding>
                 <element signature="e#148#149#0" expanded="true" />
                 <element signature="e#228#229#0" expanded="true" />
@@ -40,11 +38,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Problem6Test.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Problem6Test.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/test/com/self/projecteuler/Problem6Test.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="24" column="25" selection-start-line="24" selection-start-column="25" selection-end-line="24" selection-end-column="25" />
+            <state relative-caret-position="375">
+              <caret line="25" column="24" selection-start-line="25" selection-start-column="24" selection-end-line="25" selection-end-column="24" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -756,6 +754,9 @@
     <history-entry file="Problem6Test_differenceTest - 2016.09.11 at 15h 46m 08s.xml">
       <configuration name="Problem6Test.differenceTest" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="Problem6Test_differenceTest - 2016.09.11 at 15h 52m 03s.xml">
+      <configuration name="Problem6Test.differenceTest" configurationId="JUnit" />
+    </history-entry>
     <history-entry file="Problem6Test_squareOfSumTest - 2016.09.11 at 15h 43m 59s.xml">
       <configuration name="Problem6Test.squareOfSumTest" configurationId="JUnit" />
     </history-entry>
@@ -770,9 +771,6 @@
     </history-entry>
     <history-entry file="Problem6Test_sumOfSquareTest - 2016.09.11 at 15h 44m 15s.xml">
       <configuration name="Problem6Test.sumOfSquareTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="SinglyLinkedListTest_singlyLinkedListAddFirstTest - 2016.09.07 at 16h 45m 23s.xml">
-      <configuration name="SinglyLinkedListTest.singlyLinkedListAddFirstTest" configurationId="JUnit" />
     </history-entry>
     <history-entry file="SinglyLinkedListTest_singlyLinkedListAddFirstTest - 2016.09.07 at 16h 45m 56s.xml">
       <configuration name="SinglyLinkedListTest.singlyLinkedListAddFirstTest" configurationId="JUnit" />
@@ -1199,25 +1197,25 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test/com/self/projecteuler/Problem6Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="24" column="25" selection-start-line="24" selection-start-column="25" selection-end-line="24" selection-end-column="25" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/src/com/self/projecteuler/Problem6.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="64" selection-start-line="16" selection-start-column="64" selection-end-line="16" selection-end-column="64" />
+        <state relative-caret-position="135">
+          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
           <folding>
             <element signature="e#148#149#0" expanded="true" />
             <element signature="e#228#229#0" expanded="true" />
             <element signature="e#430#431#0" expanded="true" />
             <element signature="e#501#502#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/com/self/projecteuler/Problem6Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" column="24" selection-start-line="25" selection-start-column="24" selection-end-line="25" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
