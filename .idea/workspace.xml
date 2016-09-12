@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d47c0015-7a6c-454f-add5-f4afe00d831e" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/src/com/self/projecteuler/Problem9.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/com/self/projecteuler/Problem9Test.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/src/com/self/projecteuler/Problem9.java" afterPath="$PROJECT_DIR$/src/src/com/self/projecteuler/Problem9.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test/com/self/projecteuler/Problem9Test.java" afterPath="$PROJECT_DIR$/test/com/self/projecteuler/Problem9Test.java" />
     </list>
     <ignored path="practiceProject.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -29,17 +29,89 @@
         <entry file="file://$PROJECT_DIR$/src/src/com/self/projecteuler/Problem9.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="135">
-              <caret line="9" column="55" selection-start-line="9" selection-start-column="55" selection-end-line="9" selection-end-column="55" />
+              <caret line="9" column="77" selection-start-line="9" selection-start-column="77" selection-end-line="9" selection-end-column="77" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Problem9Test.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Problem9Test.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test/com/self/projecteuler/Problem9Test.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="165">
-              <caret line="11" column="26" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
+              <caret line="11" column="27" selection-start-line="11" selection-start-column="82" selection-end-line="11" selection-end-column="86" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Problem1.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/src/com/self/projecteuler/Problem1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Problem2.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/src/com/self/projecteuler/Problem2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Problem3.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/src/com/self/projecteuler/Problem3.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Problem4.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/src/com/self/projecteuler/Problem4.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="11" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Problem5.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/src/com/self/projecteuler/Problem5.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="8">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Problem6.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/src/com/self/projecteuler/Problem6.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Problem7.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/src/com/self/projecteuler/Problem7.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="195">
+              <caret line="13" column="28" selection-start-line="13" selection-start-column="28" selection-end-line="13" selection-end-column="28" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -760,20 +832,8 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Problem8Test_adjacentGreatestProductTest - 2016.09.11 at 19h 20m 03s.xml">
-      <configuration name="Problem8Test.adjacentGreatestProductTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Problem8Test_adjacentGreatestProductTest - 2016.09.11 at 19h 24m 26s.xml">
-      <configuration name="Problem8Test.adjacentGreatestProductTest" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="Problem8Test_adjacentGreatestProductTest - 2016.09.11 at 19h 25m 40s.xml">
       <configuration name="Problem8Test.adjacentGreatestProductTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Problem8Test_multiplyAllDigitsTest - 2016.09.11 at 19h 24m 18s.xml">
-      <configuration name="Problem8Test.multiplyAllDigitsTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="Problem8Test_mutiplyAllDigitsTest - 2016.09.11 at 19h 16m 35s.xml">
-      <configuration name="Problem8Test.mutiplyAllDigitsTest" configurationId="JUnit" />
     </history-entry>
     <history-entry file="Problem9Test_pythagoreanTripletTest - 2016.09.11 at 19h 51m 55s.xml">
       <configuration name="Problem9Test.pythagoreanTripletTest" configurationId="JUnit" />
@@ -788,6 +848,18 @@
       <configuration name="Problem9Test.pythagoreanTripletTest" configurationId="JUnit" />
     </history-entry>
     <history-entry file="Problem9Test_pythagoreanTripletTest - 2016.09.11 at 19h 57m 21s.xml">
+      <configuration name="Problem9Test.pythagoreanTripletTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Problem9Test_pythagoreanTripletTest - 2016.09.11 at 19h 58m 19s.xml">
+      <configuration name="Problem9Test.pythagoreanTripletTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Problem9Test_pythagoreanTripletTest - 2016.09.11 at 19h 59m 58s.xml">
+      <configuration name="Problem9Test.pythagoreanTripletTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Problem9Test_pythagoreanTripletTest - 2016.09.11 at 20h 00m 34s.xml">
+      <configuration name="Problem9Test.pythagoreanTripletTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Problem9Test_pythagoreanTripletTest - 2016.09.11 at 20h 00m 45s.xml">
       <configuration name="Problem9Test.pythagoreanTripletTest" configurationId="JUnit" />
     </history-entry>
   </component>
@@ -918,14 +990,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/src/com/self/projecteuler/Problem1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/src/com/self/search/LinearSearch.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -937,14 +1001,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/src/com/self/projecteuler/Problem2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -966,14 +1022,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
           <caret line="11" column="37" selection-start-line="11" selection-start-column="37" selection-end-line="11" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/src/com/self/projecteuler/Problem4.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="11" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1220,29 +1268,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/src/com/self/projecteuler/Problem6.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-          <folding>
-            <element signature="e#148#149#0" expanded="true" />
-            <element signature="e#228#229#0" expanded="true" />
-            <element signature="e#430#431#0" expanded="true" />
-            <element signature="e#501#502#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/src/com/self/projecteuler/Problem7.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="28" selection-start-line="13" selection-start-column="28" selection-end-line="13" selection-end-column="28" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/test/com/self/projecteuler/Problem7Test.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
@@ -1308,7 +1333,7 @@
     <entry file="file://$PROJECT_DIR$/src/src/com/self/projecteuler/Problem9.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
-          <caret line="9" column="55" selection-start-line="9" selection-start-column="55" selection-end-line="9" selection-end-column="55" />
+          <caret line="9" column="77" selection-start-line="9" selection-start-column="77" selection-end-line="9" selection-end-column="77" />
           <folding />
         </state>
       </provider>
@@ -1316,7 +1341,65 @@
     <entry file="file://$PROJECT_DIR$/test/com/self/projecteuler/Problem9Test.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
-          <caret line="11" column="26" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
+          <caret line="11" column="27" selection-start-line="11" selection-start-column="82" selection-end-line="11" selection-end-column="86" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/src/com/self/projecteuler/Problem1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/src/com/self/projecteuler/Problem2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/src/com/self/projecteuler/Problem3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/src/com/self/projecteuler/Problem4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="11" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/src/com/self/projecteuler/Problem5.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/src/com/self/projecteuler/Problem6.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/src/com/self/projecteuler/Problem7.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="28" selection-start-line="13" selection-start-column="28" selection-end-line="13" selection-end-column="28" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
